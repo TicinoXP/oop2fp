@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayGreetings.Test", "src\BirthdayGreetings.Test\BirthdayGreetings.Test\BirthdayGreetings.Test.csproj", "{63A9A935-1845-4E27-980D-68B9DBEDE80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayGreetings", "src\BirthdayGreetings\BirthdayGreetings\BirthdayGreetings.csproj", "{58C24EDC-58F6-4A44-852D-9128A03CBB57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A9A935-1845-4E27-980D-68B9DBEDE80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A9A935-1845-4E27-980D-68B9DBEDE80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A9A935-1845-4E27-980D-68B9DBEDE80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A9A935-1845-4E27-980D-68B9DBEDE80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C24EDC-58F6-4A44-852D-9128A03CBB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C24EDC-58F6-4A44-852D-9128A03CBB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C24EDC-58F6-4A44-852D-9128A03CBB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C24EDC-58F6-4A44-852D-9128A03CBB57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
